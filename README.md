@@ -1,2 +1,2 @@
-# perosnal_html_website
+# personal_html_website
 web development course
